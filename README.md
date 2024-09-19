@@ -1,4 +1,4 @@
-# 🧑🏻‍🚀 NFCtron Mobile Case Study (Spring, 2024)
+# 🧑🏻‍🚀 NFCtron Mobile Case Study (2024/2025)
 
 >👋 Vítejte u zadání pro kandidáty na pozici 📲 **iOS/Android Software Developer** v NFCtron! Vaším úkolem bude
 vytvořit jednoduchou mobilní aplikaci, kde demonstrujete své znalosti a případné zkušenosti z mobilního vývoje.
@@ -68,7 +68,7 @@ _Podporujeme a oceníme růst, na ten je v NFCtron prostoru dost! 📈 Naučil s
 3. Dokončete úkol dle požadavků a zadání výše.
 4. Průběžně commitujte a pushujte své změny.
 5. Otestujte řádně svou aplikaci.
-6. Po dokončení úkolu zašlete odkaz na repozitář na email [ditrich@nfctron.com](mailto:ditrich@nfctron.com):
+6. Po dokončení úkolu zašlete odkaz na repozitář na email [hr@nfctron.com](mailto:hr@nfctron.com):
 
 
 📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit.
