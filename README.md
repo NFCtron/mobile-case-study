@@ -1,7 +1,9 @@
-# 🧑🏻‍🚀 NFCtron Mobile Case Study (2024/2025)
+# 🧑🏻‍🚀 NFCtron Mobile Case Study
 
 >👋 Vítejte u zadání pro kandidáty na pozici 📲 **iOS/Android Software Developer** v NFCtron! Vaším úkolem bude
-vytvořit jednoduchou mobilní aplikaci, kde demonstrujete své znalosti a případné zkušenosti z mobilního vývoje.
+vytvořit jednoduchou mobilní aplikaci na zobrazení a ukládání kryptoměn.
+
+<img src="https://www.nfctron.com/data/blog/hr-mock.1733915983.jpg" alt="Buduj s NFCtron!" />
 
 ## 🎯 Úvod
 
@@ -9,7 +11,7 @@ V NFCtron jsme před rokem přepsali naší aplikaci do [Kotlin Multiplatform](h
 V Kotlinu udržujeme business logiku aplikace. UI píšeme nativně ve SwiftUI a Jetpack Compose.
 I tvým úkolem bude tedy vytvořit jednoduchou mobilní aplikaci pomocí KMP a nativních UI frameworků.
 
-**👉🏻 O aplikaci**
+### High-Level popis aplikace
 
 Vytvoříš jednoduchou aplikaci pro iOS/Android. Počítáme s tím, že hned nebudeš schopen napsat aplikaci pro obě platformy, na to ti dáme prostor u nás. Můžeš si tedy vybrat jednu a tu nám poslat.
 Dáme ti prostor a design necháme na tobě. Měj na paměti, že každá platforma má svoje UI/UX guidelines a ty chceme dodržovat.
@@ -17,7 +19,8 @@ Co se týče shared KMP modulu, tak bychom byli rádi, kdyby byla většina kód
 
 Z různých free to use API jsme vybrali právě [CoinGecko](https://docs.coingecko.com/reference/introduction). Toto API poskytuje dostatečné množství dat a podporuje různá filtrování.
 
-## ✍️ Zadání a požadavky
+## 🌱 Požadavky na Funkčnost
+
 Co bude cílem a obsahem aplikace? Aplikace bude zobrazovat trending kryptoměny. Uživatel bude moci vybrané kryptoměny označit jako oblíbené. Oblíbené kryptoměny uvidí v separátním seznamu, ze kterého je může i odstranit.
 Co když tvoje oblíbená kryptoměna nebude v trending seznamu? V aplikaci si ji budeš moct vyhledat a přidat do seznamu oblíbených.
 
@@ -30,7 +33,8 @@ Co když tvoje oblíbená kryptoměna nebude v trending seznamu? V aplikaci si j
 - [ ] Aplikace persistuje poslední aktuální data pro offline přístup.
 - [ ] Aplikace dodržuje iOS/Android konvence a guidelines
 
-## 🌟 Bonusy
+## 🌟 Bonusové Funkce
+
 - [ ] Lokalizace aplikace.
 - [ ] Graf vývoje ceny za různá časová období.
 - [ ] Aplikace pro druhou platformu. 🔥
@@ -63,15 +67,17 @@ _Podporujeme a oceníme růst, na ten je v NFCtron prostoru dost! 📈 Naučil s
 - Práce s Git.
 
 ## 🪜 Jak postupovat?
+
 1. Udělejte si fork tohoto repozitáře.
 2. Nastavte si své oblíbené vývojové prostředí.
 3. Dokončete úkol dle požadavků a zadání výše.
 4. Průběžně commitujte a pushujte své změny.
 5. Otestujte řádně svou aplikaci.
-6. Po dokončení úkolu zašlete odkaz na repozitář na email [hr@nfctron.com](mailto:hr@nfctron.com):
+6. Jakékoliv komentáře, či doplnění informací/dokumentace k vaší práci uvítáme v souboru `COMMENTS.md`.
+7. Po dokončení úkolu přiložte do žádosti u našeho inzerátu [iOS/Android Developer Incubation](https://www.nfctron.com/cs/kariera/ios-android-developer-incubation) odkaz na Váš repozitář.
 
 
-📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit.
+📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit na emailu [hr@nfctron.com](mailto:hr@nfctron.com).
 
 ---
 
