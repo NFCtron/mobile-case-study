@@ -1,6 +1,6 @@
 # 🧑🏻‍🚀 NFCtron Mobile Case Study
 
->👋 Vítejte u zadání pro kandidáty na pozici 📲 **iOS/Android Software Developer** v NFCtron! Vaším úkolem bude
+>👋 Vítejte u zadání pro kandidáty na pozici 📲 **Swift a Kotlin Mobile Developer | Incubation 2025** v NFCtron! Vaším úkolem bude
 vytvořit jednoduchou mobilní aplikaci na zobrazení a ukládání kryptoměn.
 
 <img src="https://www.nfctron.com/data/blog/hr-mock.1733915983.jpg" alt="Buduj s NFCtron!" />
@@ -74,7 +74,7 @@ _Podporujeme a oceníme růst, na ten je v NFCtron prostoru dost! 📈 Naučil s
 4. Průběžně commitujte a pushujte své změny.
 5. Otestujte řádně svou aplikaci.
 6. Jakékoliv komentáře, či doplnění informací/dokumentace k vaší práci uvítáme v souboru `COMMENTS.md`.
-7. Po dokončení úkolu přiložte do žádosti u našeho inzerátu [iOS/Android Developer Incubation](https://www.nfctron.com/cs/kariera/ios-android-developer-incubation) odkaz na Váš repozitář.
+7. Po dokončení úkolu přiložte do žádosti u našeho inzerátu [Swift a Kotlin Mobile Developer | Incubation 2025](https://www.nfctron.com/cs/kariera/swift-a-kotlin-mobile-developer-incubation-2025) odkaz na Váš repozitář.
 
 
 📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit na emailu [hr@nfctron.com](mailto:hr@nfctron.com).
